@@ -1,6 +1,6 @@
 Meu primeiro projeto usando git
 
-testando a diferencça de branch
+testando a diferença de branch
 
 exemplo para a aula
 mais modificações
